@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /302.html
-Sitemap: https://muskcoins.github.io/sitemap.xml
+Sitemap: https://accubyte.github.io/sitemap.xml
 
